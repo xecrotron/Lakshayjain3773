@@ -1,5 +1,7 @@
 # 💫 About Me:
 
+Hola folks, I'm Lakshay Jain. This about may get Boring.... I know, but bear with me. I'm currently in B.Tech Final Year from Indian Institute Of Information technology, Pune. I'm currently looking to grow my skills and simultaneously looking out for jobs.
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/xecrotron) 
 
